@@ -1,6 +1,6 @@
-# 🪄 Image Wizard
+# 🪄 Photo Sorter
 
-**Smart Photo Organizer - Sort, Rename, and Deduplicate with Magic!**
+**Smart Image Organizer - Sort by Date, Size, and Remove Duplicates**
 
 
 

@@ -1,6 +1,6 @@
-# 🪄 Photo Sorter
+# 🪄 Photo Sort Sorter
 
-**Smart Image Organizer - Sort by Date, Size, and Remove Duplicates**
+**Sort Photos by Date, Size, and Remove Duplicates**
 
 
 

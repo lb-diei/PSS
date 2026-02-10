@@ -1,4 +1,4 @@
-# 🪄 Photo Sort Sorter
+# 🪄 Photo Sort Sorter (PSS)
 
 **Sort Photos by Date, Size, and Remove Duplicates**
 
